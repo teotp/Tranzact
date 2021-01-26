@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jtorret3\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jtorret3\\.nuget\\packages"
+    ]
+  }
+}
